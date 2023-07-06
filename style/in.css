@@ -1,0 +1,13 @@
+h1{
+    color: brown;
+    background-color: antiquewhite;
+    font-style: italic;
+    background-size: cover;
+}
+.tn{
+    border: 2px solid blueviolet ;
+    box-shadow: 5px 5px rgb(190, 184, 184);
+    border-radius: 4px;
+    background-color: azure;
+    background-position: center;
+}
